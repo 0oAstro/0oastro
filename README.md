@@ -2,12 +2,12 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narutoxy&theme=radical&margin-w=15&margin-h=15&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=narutoxy&theme=nord&margin-w=15&margin-h=15&column=7" alt="Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narutoxy&hide_border=true&theme=radical" width="425"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narutoxy&layout=compact&hide_border=true&t&card_width=225rem&theme=radical" height="167rem" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narutoxy&hide_border=true&theme=nord" width="425"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narutoxy&layout=compact&hide_border=true&t&card_width=225rem&theme=nord" height="167rem" />
 </p>
 
 <br />
