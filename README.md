@@ -1,5 +1,5 @@
-<h1 align="center">Hey I'm Naruto Uzumaki | High school developer</h1>
-
+<h1 align="center">Hey I'm Astro</h1><h2 align="center">
+Developer lost in space</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=narutoxy&theme=radical&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Trophy" />
