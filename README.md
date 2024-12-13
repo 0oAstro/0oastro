@@ -37,39 +37,14 @@
   </picture>
 </p>
 
----
 
 ### 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,webpack" alt="Web" /><br>
+  <img src="https://skillicons.dev/icons?i=julia,python,tensorflow,pytorch,flask,fastapi" alt="Python/ML" /><br>
+  <img src="https://skillicons.dev/icons?i=lua,c,cpp,docker,git,nix,vscode,neovim" alt="General Tools" /><br>
+</p>
 
-<!-- Web Skills -->
-<div align="center">
-  <picture>
-    <source srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,webpack&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,webpack&theme=light" media="(prefers-color-scheme: light)" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,webpack&theme=dark" alt="Web" />
-  </picture>
-</div>
-<br>
-<!-- Python/ML Skills -->
-<div align="center">
-  <picture>
-    <source srcset="https://skillicons.dev/icons?i=julia,python,tensorflow,pytorch,flask,fastapi&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://skillicons.dev/icons?i=julia,python,tensorflow,pytorch,flask,fastapi&theme=light" media="(prefers-color-scheme: light)" />
-    <img src="https://skillicons.dev/icons?i=julia,python,tensorflow,pytorch,flask,fastapi&theme=dark" alt="Python/ML" />
-  </picture>
-</div>
-<br>
-<!-- General Tools -->
-<div align="center">
-  <picture>
-    <source srcset="https://skillicons.dev/icons?i=lua,c,cpp,docker,git,nix,vscode,neovim&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://skillicons.dev/icons?i=lua,c,cpp,docker,git,nix,vscode,neovim&theme=light" media="(prefers-color-scheme: light)" />
-    <img src="https://skillicons.dev/icons?i=lua,c,cpp,docker,git,nix,vscode,neovim&theme=dark" alt="General Tools" />
-  </picture>
-</div>
-
-
----
 
 ### 📫 **Contact Me**
 
@@ -81,9 +56,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/0oastro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  </a>
-    <a href="https://github.com/0oastro" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 </p>
