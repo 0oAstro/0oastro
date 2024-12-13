@@ -1,58 +1,88 @@
-<h1 align="center">✨ Shaurya Pratap Singh ✨</h1>
-<h2 align="center">🌸 Elegance in Code | ⚡ Speed Meets Precision</h2>
+![Header](header.svg)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0oastro&theme=darkhub&margin-w=15&margin-h=15&column=9&no-frame=true" alt="GitHub Achievements" />
-</div>
+![Info Panel](info.svg)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0oastro&hide_border=true&bg_color=1e1e2e&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&show_icons=true" width="420" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=0oastro&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" width="420" alt="GitHub Streak" />
-</div>
-
----
-
-### 🛠️ Tools & Languages  
+### 🏆 **GitHub Showcase**  
+<p align="center">
+  <picture>
+    <!-- Dark Mode Stats -->
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=0oastro&show_icons=true&theme=date_night"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light Mode Stats -->
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=0oastro&show_icons=true&theme=rose"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <!-- Fallback for unsupported browsers -->
+    <img src="https://github-readme-stats.vercel.app/api?username=0oastro&show_icons=true&theme=date_night" />
+  </picture>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,c,cpp,git,vscode,neovim,nix,julia,pytorch,tailwind,svelte,react,next,docker" alt="Tools and Languages" />
+  <picture>
+    <!-- Dark Mode Trophy -->
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=0oastro&theme=onedark&rank=-B,-C&column=4&margin-w=15&margin-h=15&no-frame=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light Mode Trophy -->
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=0oastro&theme=flat&rank=-B,-C&column=4&margin-w=15&margin-h=15&no-frame=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <!-- Fallback for unsupported browsers -->
+    <img src="https://github-profile-trophy.vercel.app/?username=0oastro&theme=onedark&rank=-B,-C&column=4&margin-w=15&margin-h=15&no-frame=true" />
+  </picture>
 </p>
 
 ---
 
-### 🏎️ Formula 1 Vibes  
+### 🛠️ **Tech Stack**
 
-<p align="center">
-  <pre align="center">
-  _    _             /'_'_/.-''/                             _______
-  \`../ |o_..__     / /__   / /  -= MAX VERSTAPPEN =-       _\=.o.=/_
-`.,(_)______(_).>  / ___/  / /                             |_|_____|_|
-~~~~~~~~~~~~~~~~~~/_/~~~~~/_/~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~jrei~~
-</pre>
-</p>
+<!-- Web Skills -->
+<div align="center">
+  <picture>
+    <source srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,webpack&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,webpack&theme=light" media="(prefers-color-scheme: light)" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,webpack&theme=dark" alt="Web" />
+  </picture>
+</div>
+<br>
+<!-- Python/ML Skills -->
+<div align="center">
+  <picture>
+    <source srcset="https://skillicons.dev/icons?i=julia,python,tensorflow,pytorch,flask,fastapi&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://skillicons.dev/icons?i=julia,python,tensorflow,pytorch,flask,fastapi&theme=light" media="(prefers-color-scheme: light)" />
+    <img src="https://skillicons.dev/icons?i=julia,python,tensorflow,pytorch,flask,fastapi&theme=dark" alt="Python/ML" />
+  </picture>
+</div>
+<br>
+<!-- General Tools -->
+<div align="center">
+  <picture>
+    <source srcset="https://skillicons.dev/icons?i=lua,c,cpp,docker,git,nix,vscode,neovim&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://skillicons.dev/icons?i=lua,c,cpp,docker,git,nix,vscode,neovim&theme=light" media="(prefers-color-scheme: light)" />
+    <img src="https://skillicons.dev/icons?i=lua,c,cpp,docker,git,nix,vscode,neovim&theme=dark" alt="General Tools" />
+  </picture>
+</div>
 
-Life is a race, and every project is a new track to conquer.  
 
 ---
 
-### 📬 Contact Me  
+### 📫 **Contact Me**
 
 <p align="center">
   <a href="mailto:ee1240486@iitd.ac.in">
-    <img src="https://img.shields.io/badge/Mail-DDB6F2?style=for-the-badge&logo=gmail&logoColor=161320" alt="Mail" />
+    <img src="https://img.shields.io/badge/Mail-B22222?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail" />
   </a>
   <a href="https://www.linkedin.com/in/sps1010/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-96CDFB?style=for-the-badge&logo=linkedin&logoColor=161320" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/0oastro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-F5C2E7?style=for-the-badge&logo=github&logoColor=161320" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <em>“Even the fastest races are won with precision.”</em> ✨
-</p>
