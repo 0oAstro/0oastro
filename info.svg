@@ -4,10 +4,11 @@
       <!-- Image for Dark Mode and Light Mode -->
       <picture>
         <!-- Dark Mode Image -->
-        <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/QLGJj4WwiH0AAAAM/anime-jujutsu-kaisen.gif" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/pp-dark.gif" />
         <!-- Light Mode Image (Placeholder) -->
-        <img src="https://i.pinimg.com/736x/f5/e7/e5/f5e7e581b4fef9b60a8b0d8dd5ba948c.jpg" 
-             alt="Momo" 
+        <source media="(prefers-color-scheme: light)" srcset="assets/pp-light.jpg" />
+        <img src="assets/pp-dark.gif" 
+             alt="JJK" 
              style="height: auto; width: 120px; border-radius: 12px; margin-right: 30px;" />
       </picture>
 
@@ -20,7 +21,6 @@
 🖥️ Tools    : Neovim · VS Code · Docker · Git
 🚀 Focus    : AI · Data Science · Open Source
 ✨ Interests: Anime · Tech · Startups
-🌙 Current Theme: Light
       </pre>
     </div>
   </foreignObject>

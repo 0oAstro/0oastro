@@ -1,7 +1,7 @@
-<!-- ![Header](header.svg)
+<!-- ![Header](header.svg) -->
 
-![Info Panel](info.svg)
- -->
+<!-- ![Info Panel](info.svg) -->
+
 ### 🏆 **GitHub Showcase**  
 <p align="center">
   <picture>
@@ -81,6 +81,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/0oastro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+    <a href="https://github.com/0oastro" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 </p>
