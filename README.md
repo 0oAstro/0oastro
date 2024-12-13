@@ -1,7 +1,7 @@
-![Header](header.svg)
+<!-- ![Header](header.svg)
 
 ![Info Panel](info.svg)
-
+ -->
 ### 🏆 **GitHub Showcase**  
 <p align="center">
   <picture>
